@@ -1,0 +1,21 @@
+{
+    "tests_by_mangled_function_name": {
+        "angle.x_hours_hand": [
+            "test_angle.py::test_twelve",
+            "test_angle.py::test_three"
+        ],
+        "angle.x_minutes_hand": [
+            "test_angle.py::test_twelve",
+            "test_angle.py::test_three"
+        ],
+        "angle.x_between": [
+            "test_angle.py::test_twelve",
+            "test_angle.py::test_three"
+        ]
+    },
+    "duration_by_test": {
+        "test_angle.py::test_twelve": 0.00024970599997686804,
+        "test_angle.py::test_three": 0.00028074100009689573
+    },
+    "stats_time": 0.1564944
+}

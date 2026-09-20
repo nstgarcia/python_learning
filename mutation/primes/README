@@ -1,0 +1,2 @@
+pip install mutpy
+mut.py --target primes --unit-test test_isPrime -m --runner pytest

@@ -1,0 +1,37 @@
+{
+    "exit_code_by_key": {
+        "angle.x_hours_hand__mutmut_1": 1,
+        "angle.x_hours_hand__mutmut_2": 1,
+        "angle.x_hours_hand__mutmut_3": 0,
+        "angle.x_hours_hand__mutmut_4": 0,
+        "angle.x_hours_hand__mutmut_5": 0,
+        "angle.x_hours_hand__mutmut_6": 0,
+        "angle.x_hours_hand__mutmut_7": 1,
+        "angle.x_hours_hand__mutmut_8": 0,
+        "angle.x_hours_hand__mutmut_9": 0,
+        "angle.x_hours_hand__mutmut_10": 0,
+        "angle.x_hours_hand__mutmut_11": 0,
+        "angle.x_hours_hand__mutmut_12": 0,
+        "angle.x_hours_hand__mutmut_13": 0,
+        "angle.x_hours_hand__mutmut_14": 1,
+        "angle.x_hours_hand__mutmut_15": 0,
+        "angle.x_minutes_hand__mutmut_1": 0,
+        "angle.x_minutes_hand__mutmut_2": 0,
+        "angle.x_minutes_hand__mutmut_3": 0,
+        "angle.x_minutes_hand__mutmut_4": 0,
+        "angle.x_between__mutmut_1": 1,
+        "angle.x_between__mutmut_2": 1,
+        "angle.x_between__mutmut_3": 1,
+        "angle.x_between__mutmut_4": 1,
+        "angle.x_between__mutmut_5": 0,
+        "angle.x_between__mutmut_6": 0,
+        "angle.x_between__mutmut_7": 1,
+        "angle.x_between__mutmut_8": 1,
+        "angle.x_between__mutmut_9": 1
+    },
+    "hash_by_function_name": {
+        "hours_hand": "bf928f28b0ad21085cbd6a3525b1178f",
+        "minutes_hand": "f84a6e803e057475e59a240c56b0abca",
+        "between": "61a1904577f14b12bd9f73d74a072069"
+    }
+}
